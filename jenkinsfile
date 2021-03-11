@@ -20,7 +20,6 @@ node {
     // -------------------------------------------------------------------------
 
     stage('checkout source') {
-        echo checking out
         checkout scm
     }
 
