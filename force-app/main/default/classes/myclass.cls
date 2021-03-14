@@ -1,6 +1,6 @@
 public with sharing class myclass {
 	public myclass() {
-		System.debug('Test Next Build');
+		System.debug('Test Next Build Gain');
 	}
 
 	public String getAppVersion() {
